@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Digital Clock</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+    <div class="container">
+        <h1 class="title">Digital Clock</h1>
+
+        <div class="clock-container">
+            <div class="clock">
+                <span id="hours">08</span>:<span id="minutes">37</span>
+                <span id="ampm">PM</span>
+                <span id="seconds">20</span>
+                <div class="date" id="date">Mar, Sunday 6</div>
+            </div>
+
+            <!-- Format Switch -->
+            <div class="settings">
+                <label class="switch">
+                    <input type="checkbox" id="formatToggle">
+                    <span class="slider"></span>
+                </label>
+                <p>24-hour format</p>
+            </div>
+
+            <!-- Theme Switch -->
+            <div class="settings">
+                <label class="switch">
+                    <input type="checkbox" id="themeToggle">
+                    <span class="slider"></span>
+                </label>
+                <p>Dark Mode</p>
+            </div>
+
+            <!-- Alarm -->
+            <div class="alarm-section">
+                <input type="time" id="alarmTime">
+                <button id="setAlarm">Set Alarm</button>
+                <p id="alarmStatus">No Alarm Set</p>
+            </div>
+
+            <!-- Weather -->
+            <div class="weather">
+                <p id="weather">Loading Weather...</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Floral Digital Clock</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+    <div class="container">
+        <h1 class="title">Spring 🌿</h1>
+        
+        <div class="clock-container">
+            <div class="clock">
+                <span id="hours">08</span>:<span id="minutes">37</span>
+                <span id="ampm">PM</span>
+                <span id="seconds">20</span>
+            </div>
+            <div class="date" id="date">Mar, Sunday 6</div>
+        </div>
+
+        <!-- 24-hour Format Toggle -->
+        <div class="settings">
+            <label class="switch">
+                <input type="checkbox" id="formatToggle">
+                <span class="slider"></span>
+            </label>
+            <p>24-hour format</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
