@@ -14,7 +14,8 @@ A stylish and modern digital clock built with JavaScript, HTML, and CSS. This cl
 <h1>Clock1</h1>
 https://github.com/user-attachments/assets/f7552366-9a96-42ee-89be-61b654e72d2b
 <h1>Clock2</h1>
-![clock2](https://github.com/user-attachments/assets/42879552-72e3-461b-9de8-01ef2e1213b0)
+![clock2](https://github.com/user-attachments/assets/3f51a37e-2856-4f8b-994e-4c64f744c028)
+
 🛠 Technologies Used
 
 HTML5 – Structure of the webpage
@@ -24,7 +25,7 @@ JavaScript – Functionality and dynamic updates
 
 📂 Project Setup
 1️⃣ Clone the repository:
-design1 :- https://github.com/Uniquesoul14/Digital-Clock/tree/main/design1
+design1 :- https://github.com/Uniquesoul14/Digital-Clock/tree/main/design1 <br>
 2️⃣ Open index.html in a browser
 design2 :- https://github.com/Uniquesoul14/Digital-Clock/tree/main/design1/design2
 2️⃣ Open index.html in a browser
