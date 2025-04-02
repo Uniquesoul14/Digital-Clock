@@ -11,8 +11,10 @@ A stylish and modern digital clock built with JavaScript, HTML, and CSS. This cl
 ✅ Lightweight and fast performance
 
 📸 Demo
-🚀 Live Demo (Add your demo link here)
-
+<h1>Clock1</h1>
+https://github.com/user-attachments/assets/f7552366-9a96-42ee-89be-61b654e72d2b
+<h1>Clock2</h1>
+![clock2](https://github.com/user-attachments/assets/42879552-72e3-461b-9de8-01ef2e1213b0)
 🛠 Technologies Used
 
 HTML5 – Structure of the webpage
