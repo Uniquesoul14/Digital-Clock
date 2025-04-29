@@ -23,9 +23,9 @@ A stylish and fully responsive digital clock with dual designs, built using Java
 
 
 📜 Installation & Usage
-Clone the repository:
-for Design1 : https://github.com/Uniquesoul14/Digital-Clock/tree/main/design1
-foe Design2 : https://github.com/Uniquesoul14/Digital-Clock/tree/main/design1/design2
+Clone the repository:<br>
+for Design1 : https://github.com/Uniquesoul14/Digital-Clock/tree/main/design1<br>
+foe Design2 : https://github.com/Uniquesoul14/Digital-Clock/tree/main/design1/design2<br>
 Open index.html in your browser.
 
 <h3>Enjoy the live digital clock!</h3>
